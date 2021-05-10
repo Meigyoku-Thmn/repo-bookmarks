@@ -12,6 +12,8 @@ Because the built-in watchlist of Github sucks.
 * WindowsSDK7 Samples: https://github.com/pauldotknopf/WindowsSDK7-Samples
 * Taming-CSS: https://github.com/keithjgrant/Taming-CSS
 * VietnameseIO: https://github.com/tntxtnt/VietnameseIO
+* Developer Roadmap: https://github.com/kamranahmedse/developer-roadmap
+* Awesome Linux Software: https://github.com/luong-komorebi/Awesome-Linux-Software
 
 ## Reactive Programming (mostly about data-binding)
 * EBind: https://github.com/SIDOVSKY/EBind
@@ -28,13 +30,26 @@ Because the built-in watchlist of Github sucks.
 * FastExpressionCompiler: https://github.com/dadhi/FastExpressionCompiler
 * cs-script: https://github.com/oleg-shilo/cs-script
 
+## Coroutine
+* co: https://github.com/tj/co
+
 ## Data Structure And Algorithms
 * denque: https://github.com/invertase/denque
 * enumify: https://github.com/rauschma/enumify
+* dawgdic: https://github.com/stil/dawgdic
+* DAWG: https://github.com/pytries/DAWG
+* NoAho: https://github.com/JDonner/NoAho
+* acora: https://github.com/scoder/acora
+* pyahocorasick: https://github.com/WojciechMula/pyahocorasick
+
+## Google Apps Script
+* clasp: https://github.com/google/clasp
 
 ## Javascript Engines:
 * edge-js: https://github.com/agracio/edge-js
 * NiL.JS: https://github.com/nilproject/NiL.JS
+* ChakraCore: https://github.com/chakra-core/ChakraCore
+* nexusjs: https://github.com/voodooattack/nexusjs
 
 ## Object–Relational Mapping
 * linq2db: https://github.com/linq2db/linq2db
@@ -45,6 +60,7 @@ Because the built-in watchlist of Github sucks.
 * bogo-win: https://github.com/BoGoEngine/bogo-win
 * windows-chewing-tsf: https://github.com/chewing/windows-chewing-tsf
 * PIME: https://github.com/EasyIME/PIME
+* ibus-bamboo: https://github.com/BambooEngine/ibus-bamboo
 
 ## Dictionaries
 * GoldenDict: https://github.com/goldendict/goldendict
@@ -111,10 +127,13 @@ Because the built-in watchlist of Github sucks.
 * Locale-Emulator: https://github.com/xupefei/Locale-Emulator
 
 ## Reverse Engineering:
+* IAT Hooking Revisited: https://github.com/m0n0ph1/IAT-Hooking-Revisited
+* Blackbone: https://github.com/DarthTon/Blackbone
 * Reflexil: https://github.com/sailro/Reflexil
 * frida: https://github.com/frida/frida
 * dsync: https://github.com/patois/dsync
 * ILSpy: https://github.com/icsharpcode/ILSpy
+* dnSpy: https://github.com/dnSpy/dnSpy
 * cecil: https://github.com/jbevain/cecil
 * APKRepatcher: https://github.com/csanuragjain/APKRepatcher
 * diaphora: https://github.com/joxeankoret/diaphora
@@ -129,7 +148,13 @@ Because the built-in watchlist of Github sucks.
 * Deviare-InProc: https://github.com/nektra/Deviare-InProc
 * Deviare2: https://github.com/nektra/Deviare2
 * de4dot: https://github.com/de4dot/de4dot
+* slimhook: https://github.com/coreyauger/slimhook
+* dec2struct: https://github.com/krystalgamer/dec2struct
+* Harmony: https://github.com/pardeike/Harmony
 ### Game Reverse Engineering
+* tinke: https://github.com/pleonex/tinke
+* somestuff: https://github.com/comex/somestuff
+* pwse: https://github.com/drewler/pwse
 * msgi: https://github.com/paulsapps/msgi
 * fvp: https://github.com/akerou/fvp
 * yukatool: https://github.com/AtomCrafty/yukatool
@@ -162,11 +187,15 @@ Because the built-in watchlist of Github sucks.
 * game-hacking: https://github.com/dsasmblr/game-hacking
 * idaplugins-list: https://github.com/onethawt/idaplugins-list
 * owasp-mstg: https://github.com/OWASP/owasp-mstg
+* Reverse Engineering resources: https://github.com/wtsxDev/reverse-engineering
 
 ## Game Modding
 * ThMouse: https://github.com/hwei/ThMouse
 * RockmanX4Boost: https://github.com/Appendko/RockmanX4Boost
 * mgs2-v-s-fix: https://github.com/VFansss/mgs2-v-s-fix
+
+## Discord
+* bd-linestickers: https://github.com/awaken1ng/bd-linestickers
 
 ## Visual Novel Engines
 * vnds: https://github.com/BASLQC/vnds
@@ -174,7 +203,11 @@ Because the built-in watchlist of Github sucks.
 ## Wikipedia
 * alphama_converter: https://github.com/alphamaviwiki/alphama_converter
 
+## UI/UX Prototyping
+* pencil: https://github.com/evolus/pencil
+
 ## Graphics Processing:
+* waifu2x: https://github.com/nagadomi/waifu2x
 * waifu2x-caffe: https://github.com/lltcggie/waifu2x-caffe
 * waifu2x-converter-cpp: https://github.com/tanakamura/waifu2x-converter-cpp
 
