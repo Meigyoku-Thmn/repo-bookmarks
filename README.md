@@ -1,4 +1,4 @@
-# This is a personal repo where I bookmark repositories which I like
+# This is a personal repo where I bookmark repositories
 Because the built-in watchlist of Github sucks.
 
 ## Websites/Documentations
@@ -151,7 +151,7 @@ Because the built-in watchlist of Github sucks.
 * slimhook: https://github.com/coreyauger/slimhook
 * dec2struct: https://github.com/krystalgamer/dec2struct
 * Harmony: https://github.com/pardeike/Harmony
-### Game Reverse Engineering
+#### Game Reverse Engineering
 * tinke: https://github.com/pleonex/tinke
 * somestuff: https://github.com/comex/somestuff
 * pwse: https://github.com/drewler/pwse
@@ -183,7 +183,7 @@ Because the built-in watchlist of Github sucks.
 * LinBinEditor: https://github.com/marcussacana/LinBinEditor
 * SDR2CM: https://github.com/marcussacana/SDR2CM
 * SD2FE: https://github.com/marcussacana/SD2FE
-### Websites/Documentations
+#### Websites/Documentations
 * game-hacking: https://github.com/dsasmblr/game-hacking
 * idaplugins-list: https://github.com/onethawt/idaplugins-list
 * owasp-mstg: https://github.com/OWASP/owasp-mstg
@@ -206,28 +206,28 @@ Because the built-in watchlist of Github sucks.
 ## UI/UX Prototyping
 * pencil: https://github.com/evolus/pencil
 
-## Graphics Processing:
+## Graphics Processing
 * waifu2x: https://github.com/nagadomi/waifu2x
 * waifu2x-caffe: https://github.com/lltcggie/waifu2x-caffe
 * waifu2x-converter-cpp: https://github.com/tanakamura/waifu2x-converter-cpp
 
-## Video/Audio Recording:
+## Video/Audio Recording
 * scrcpy: https://github.com/Genymobile/scrcpy
 
-## Video/Audio Processing:
+## Video/Audio Processing
 * FFmpeg: https://github.com/ShiftMediaProject/FFmpeg
 * ffmpeg-tutorial: https://github.com/mpenkov/ffmpeg-tutorial
 
-## Media Playback:
+## Media Playback
 * ffmpeg-video-player: https://github.com/rambodrahmani/ffmpeg-video-player
 * videojs-youtube: https://github.com/videojs/videojs-youtube
 * JavascriptSubtitlesOctopus: https://github.com/libass/JavascriptSubtitlesOctopus
 * plyr: https://github.com/sampotts/plyr
 * ableplayer: https://github.com/ableplayer/ableplayer
 
-## Media Streaming:
+## Media Streaming
 * chiaki: https://github.com/thestr4ng3r/chiaki
 
-## Subtitling:
+## Subtitling
 * YTSubConverter: https://github.com/arcusmaximus/YTSubConverter
 * subtitleedit: https://github.com/SubtitleEdit/subtitleedit
