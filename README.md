@@ -33,6 +33,9 @@ Because the built-in watchlist of Github sucks.
 ## Coroutine
 * co: https://github.com/tj/co
 
+## Number
+* overflow-js: https://github.com/patrimart/overflow-js
+
 ## Data Structure And Algorithms
 * denque: https://github.com/invertase/denque
 * enumify: https://github.com/rauschma/enumify
