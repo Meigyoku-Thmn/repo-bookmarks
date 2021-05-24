@@ -231,3 +231,4 @@ Because the built-in watchlist of Github sucks.
 ## Subtitling
 * YTSubConverter: https://github.com/arcusmaximus/YTSubConverter
 * subtitleedit: https://github.com/SubtitleEdit/subtitleedit
+* Aegisub: https://github.com/wangqr/Aegisub
