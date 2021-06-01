@@ -15,6 +15,9 @@ Because the built-in watchlist of Github sucks.
 * Developer Roadmap: https://github.com/kamranahmedse/developer-roadmap
 * Awesome Linux Software: https://github.com/luong-komorebi/Awesome-Linux-Software
 
+## Benchmark
+* https://www.measurethat.net/Benchmarks/Show/13248/2/switch-case-vs-object-vs-array-vs-map
+
 ## Reactive Programming (mostly about data-binding)
 * EBind: https://github.com/SIDOVSKY/EBind
 * rxjs-for-await: https://github.com/benlesh/rxjs-for-await
