@@ -210,6 +210,7 @@ Because the built-in watchlist of Github sucks.
 * pencil: https://github.com/evolus/pencil
 
 ## Graphics Processing
+* BallonsTranslator: https://github.com/dmMaze/BallonsTranslator
 * waifu2x: https://github.com/nagadomi/waifu2x
 * waifu2x-caffe: https://github.com/lltcggie/waifu2x-caffe
 * waifu2x-converter-cpp: https://github.com/tanakamura/waifu2x-converter-cpp
